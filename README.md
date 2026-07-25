@@ -3,8 +3,8 @@
 Synchronized via **GitSync Notes App**.
 
 ## Table of Contents
-- [Overview & Quickstart](overview-quickstart.md)
-- [System Architecture](system-architecture.md)
-- [Markdown Cheat Sheet](markdown-cheat-sheet.md)
-- [Google Drive Integration](google-drive-integration.md)
-- [GitHub Sync & Repository Setup](github-sync-setup.md)
+- [Github sync setup](github-sync-setup.md)
+- [Google drive integration](google-drive-integration.md)
+- [Markdown cheat sheet](markdown-cheat-sheet.md)
+- [Overview quickstart](overview-quickstart.md)
+- [System architecture](system-architecture.md)
